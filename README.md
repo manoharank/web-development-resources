@@ -3,39 +3,33 @@ Web Develoment Resources
 
 Collection of useful blogs, slides, talks for web develoment
 
-General
-=======
+### General
 
 - [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork)
 - [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/)
 
-Basic (HTML, CSS, JS) Frameworks
-==============================
+### Basic (HTML, CSS, JS) Frameworks
 
 - [Bootstrap](http://getbootstrap.com)
 - [Foundation](http://foundation.zurb.com)
 
-Libraries
-=========
+### Libraries
 
 - [jQuery](http://jquery.com/)
 - [D3](http://d3js.org/)
 - [React](http://facebook.github.io/react/)
 
-JS MVC Framewoks
-================
+### JS MVC Framewoks
 
 - [Ember.js](http://emberjs.com/)
 - [Angular.js](http://angularjs.org/)
 
-Build Tools
-===========
+### Build Tools
 
 - [Grunt](http://gruntjs.com/)
 - [Gulp](http://gulpjs.com/)
 
-Peoples to follow on Twitter
-============================
+### Peoples to follow on Twitter
 
 - [@ChromiumDev](https://twitter.com/ChromiumDev)
 - [@addyosmani](https://twitter.com/addyosmani)
