@@ -1,4 +1,4 @@
-front-end-resources
+Web Develoment resources
 ===================
 
-Collection of resources for web develoment
+Collection of useful blogs, slides, talks for web develoment
