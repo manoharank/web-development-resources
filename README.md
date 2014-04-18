@@ -39,3 +39,8 @@ Collection of useful blogs, slides, talks for web develoment
 - [@davidwalshblog](https://twitter.com/davidwalshblog)
 - [@slicknet](https://twitter.com/slicknet)
 - [@csswizardry](https://twitter.com/csswizardry)
+
+### Performance
+
+- [Make the Web Faster - Google](https://developers.google.com/speed/)
+- [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
