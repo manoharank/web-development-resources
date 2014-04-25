@@ -3,6 +3,10 @@ Web Develoment Resources
 
 Collection of useful blogs, slides, talks for web develoment
 
+### Same kinda
+
+-[Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+
 ### General
 
 - [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork)
@@ -12,6 +16,11 @@ Collection of useful blogs, slides, talks for web develoment
 
 - [Bootstrap](http://getbootstrap.com)
 - [Foundation](http://foundation.zurb.com)
+
+### HTML, CSS blogs
+
+- [HTML, CSS code guide](http://mdo.github.io/code-guide/)
+- [Reasons HTML and CSS might make you say what the fuck](http://mdo.github.io/wtf-html-css/)
 
 ### Libraries
 
