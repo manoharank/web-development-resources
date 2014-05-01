@@ -5,12 +5,13 @@ Collection of useful blogs, slides, talks for web develoment
 
 ### Same kinda
 
--[Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 ### General
 
 - [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork)
 - [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/)
+- [Web Fundamentals by Google](https://developers.google.com/web/fundamentals/)
 
 ### Basic (HTML, CSS, JS) Frameworks
 
