@@ -54,3 +54,4 @@ Collection of useful blogs, slides, talks for web develoment
 
 - [Make the Web Faster - Google](https://developers.google.com/speed/)
 - [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
+- [script-injected-async-scripts-considered-harmful by Ilya Grigorik](https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/)
