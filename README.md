@@ -60,4 +60,7 @@ Collection of useful blogs, slides, talks for web develoment
 
 ### Email Design
 
+- [About HTML email](http://kb.mailchimp.com/campaigns/ways-to-build/how-to-code-html-emails)
 - [MailChimp Desdign Guide](http://mailchimp.com/resources/email-design-guide/)
+- [Images in email](http://kb.mailchimp.com/campaigns/image-videos-files/image-requirements-for-templates)
+- [CSS in email](http://kb.mailchimp.com/campaigns/ways-to-build/using-css-in-campaigns)
