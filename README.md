@@ -6,6 +6,7 @@ Collection of useful blogs, slides, talks for web develoment
 ### Same kinda
 
 - [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [A curated list of awesome lists](https://github.com/sindresorhus/awesome)
 
 ### General
 
