@@ -65,3 +65,4 @@ Collection of useful blogs, slides, talks for web develoment
 - [MailChimp Desdign Guide](http://mailchimp.com/resources/email-design-guide/)
 - [Images in email](http://kb.mailchimp.com/campaigns/image-videos-files/image-requirements-for-templates)
 - [CSS in email](http://kb.mailchimp.com/campaigns/ways-to-build/using-css-in-campaigns)
+- [Things I've Learned About Building & Coding HTML Email Templates](http://www.leemunroe.com/building-html-email/) by [@leemunroe](https://twitter.com/leemunroe) from Mailgun
