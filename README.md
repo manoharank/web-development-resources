@@ -24,6 +24,10 @@ Collection of useful blogs, slides, talks for web develoment
 - [HTML, CSS code guide](http://mdo.github.io/code-guide/)
 - [Reasons HTML and CSS might make you say what the fuck](http://mdo.github.io/wtf-html-css/)
 
+### JS Books
+
+- [Speaking Javascript](http://speakingjs.com/es5/) by Axel Rauschmayer
+
 ### Libraries
 
 - [jQuery](http://jquery.com/)
